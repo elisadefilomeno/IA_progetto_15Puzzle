@@ -13,7 +13,7 @@ Per l'ottimale funzionamento del programma abbiamo messo a disposizione della JV
 
 ****** Precompilazione dei databases:
 
-Per utilizzare i due Disjoint Pattern Databases bisogna prima precompilarli su due file. 
+Per utilizzare i due Disjoint Pattern Databases bisogna prima precompilarli su due file. Questa operazione dura circa 20 minuti.
 Per far ciò si definisce il nodo goal dal quale calcolare le euristiche da memorizzare.
 Assicurarsi di mettere a disposizione alla JVM abbastanza memoria con il comando -Xmx. (4-5 GB dovrebbero bastare)
 
