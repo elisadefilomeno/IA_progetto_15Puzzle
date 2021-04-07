@@ -9,7 +9,7 @@ Implementazione in java di IDA* con varie euristiche per risolvere puzzle 4x4, s
 
 Per l'ottimale funzionamento del programma abbiamo messo a disposizione della JVM 10GB con -Xmx10G (per la sola creazione dei databse basta meno).
 
-****************************************Classe Main*************************************************************
+****************************************Classe Main***********************************************
 
 ****** Precompilazione dei databases:
 
